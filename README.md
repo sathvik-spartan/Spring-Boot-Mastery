@@ -175,6 +175,10 @@ Take your backend expertise to the next level:
 > ➡️ [Java Full Course for free (2025) – YouTube](https://www.youtube.com/watch?v=xTtL8E4LzTQ)  
 > ➡️ [Learn Java – Codecademy](https://www.codecademy.com/learn/learn-java)
 
+# 🌱 Spring Boot Roadmap 2025: The Complete Guide for Backend Developers
+
+[Spring Boot Roadmap 2025](Springboot%20roadmap.md)
+
 ---
 
 ## 🧠 Final Words
