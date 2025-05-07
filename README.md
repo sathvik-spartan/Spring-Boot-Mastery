@@ -177,7 +177,7 @@ Take your backend expertise to the next level:
 
 # 🌱 Spring Boot Roadmap 2025: The Complete Guide for Backend Developers
 
-[Spring Boot Roadmap 2025](Springboot%20roadmap.md)
+![spring-boot-roadmap](https://github.com/user-attachments/assets/f79841ce-ab40-404b-b88b-e46131a3c0eb)
 
 ---
 
