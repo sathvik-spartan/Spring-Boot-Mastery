@@ -8,10 +8,10 @@ Master Spring Boot in 2025 with this comprehensive roadmap covering Java fundame
 
 Spring Boot remains one of the most powerful frameworks for Java developers. In 2025, it's essential for backend development due to:
 
-- ✅ Java’s continued popularity
-- ✅ High demand for Spring Boot in enterprise systems
-- ✅ Microservices and cloud-native development
-- ✅ Fast development and rich ecosystem
+- Java’s Eternal popularity.
+- High demand for Spring Boot in enterprise systems.
+- Microservices and cloud-native development.
+- Fast development and rich ecosystem.
 
 ---
 
