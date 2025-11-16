@@ -1,6 +1,6 @@
-# Spring Boot Roadmap 2025: The Complete Guide for Backend Developers
+# Spring Boot Roadmap : The Complete Guide for Backend Developers
 
-Master Spring Boot in 2025 with this comprehensive roadmap covering Java fundamentals, REST APIs, Spring Security, Data Access, Microservices, and more.
+Master Spring Boot with this comprehensive roadmap covering Java fundamentals, REST APIs, Spring Security, Data Access, Microservices, and more.
 
 ---
 
