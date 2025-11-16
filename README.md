@@ -17,7 +17,7 @@ Spring Boot remains one of the most powerful frameworks for Java developers. In 
 
 ## Spring Boot Roadmap (Step-by-Step)
 
-### 🔹 Step 1: Master Java Fundamentals
+### Step 1: Master Java Fundamentals
 
 Before diving into Spring Boot, strengthen your Java basics:
 
@@ -32,7 +32,7 @@ Before diving into Spring Boot, strengthen your Java basics:
 
 ---
 
-### 🔹 Step 2: Learn Maven or Gradle
+### Step 2: Learn Maven or Gradle
 
 Understand build tools to manage dependencies and deployment:
 
@@ -46,7 +46,7 @@ Understand build tools to manage dependencies and deployment:
 
 ---
 
-### 🔹 Step 3: Dive Into Spring Core
+### Step 3: Dive Into Spring Core
 
 Build a foundation with the Spring Framework:
 
@@ -60,7 +60,7 @@ Build a foundation with the Spring Framework:
 
 ---
 
-### 🔹 Step 4: Build with Spring Boot
+### Step 4: Build with Spring Boot
 
 Spring Boot accelerates app development:
 
@@ -74,7 +74,7 @@ Spring Boot accelerates app development:
 
 ---
 
-### 🔹 Step 5: Build Secure REST APIs
+### Step 5: Build Secure REST APIs
 
 Create production-grade REST APIs:
 
@@ -88,7 +88,7 @@ Create production-grade REST APIs:
 
 ---
 
-### 🔹 Step 6: Secure Your Applications
+### Step 6: Secure Your Applications
 
 Security is a must:
 
@@ -102,7 +102,7 @@ Security is a must:
 
 ---
 
-### 🔹 Step 7: Work with Databases
+### Step 7: Work with Databases
 
 Spring Boot integrates well with databases:
 
@@ -116,7 +116,7 @@ Spring Boot integrates well with databases:
 
 ---
 
-### 🔹 Step 8: Testing Best Practices
+### Step 8: Testing Best Practices
 
 Testing ensures reliability and maintainability:
 
@@ -129,7 +129,7 @@ Testing ensures reliability and maintainability:
 
 ---
 
-### 🔹 Step 9: Connect to External APIs
+### Step 9: Connect to External APIs
 
 Integrate with third-party APIs:
 
@@ -141,7 +141,7 @@ Integrate with third-party APIs:
 
 ---
 
-### 🔹 Step 10: Advanced Topics
+### Step 10: Advanced Topics
 
 Take your backend expertise to the next level:
 
@@ -181,7 +181,7 @@ Take your backend expertise to the next level:
 
 ---
 
-## Contributions and Wisdom
+## Contributions! 
 
 This roadmap will guide you from beginner to advanced backend developer using Spring Boot in 2025. Follow it step-by-step and reinforce your learning with hands-on projects and real-world applications.   
 
