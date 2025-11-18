@@ -178,7 +178,7 @@ Take your backend expertise to the next level:
 # Spring Boot Roadmap : The Complete Guide for Backend Developers 
 - Thanks a lot, AMIGOSCODE for this amazing Roadmap!    
 
-![spring-boot-roadmap](https://github.com/user-attachments/assets/f79841ce-ab40-404b-b88b-e46131a3c0eb)
+![Spring-Boot-roadmap](https://github.com/user-attachments/assets/f79841ce-ab40-404b-b88b-e46131a3c0eb)
 
 ---
 
