@@ -21,7 +21,7 @@ Spring Boot remains one of the most powerful frameworks for Java developers. It'
 
 Before diving into Spring Boot, strengthen your Java basics:
 
-- Java 17 or 21
+- Java 17 or 21 (Newer Versions)
 - OOP (Object-Oriented Programming)
 - Lambdas and Streams
 - Multithreading and Concurrency
@@ -175,7 +175,8 @@ Take your backend expertise to the next level:
 > [Java Full Course for free (2025) – YouTube](https://www.youtube.com/watch?v=xTtL8E4LzTQ)  
 > [Learn Java – Codecademy](https://www.codecademy.com/learn/learn-java)
 
-# Spring Boot Roadmap 2025: The Complete Guide for Backend Developers
+# Spring Boot Roadmap : The Complete Guide for Backend Developers 
+- Thanks a lot, AMIGOSCODE for this amazing Roadmap!    
 
 ![spring-boot-roadmap](https://github.com/user-attachments/assets/f79841ce-ab40-404b-b88b-e46131a3c0eb)
 
