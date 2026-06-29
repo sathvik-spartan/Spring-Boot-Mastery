@@ -118,5 +118,3 @@ A curated list of the best **free resources** to master everything in the Spring
 > *All resources listed are freely available and beginner-friendly. Practice and projects are highly recommended alongside learning!*
 
 ---
-
-Created with ❤️ by B.Sathvik Reddy
