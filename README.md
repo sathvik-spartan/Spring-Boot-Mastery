@@ -22,7 +22,7 @@ Reasons to learn Spring Boot:
 
 ## Phase 0 — Prerequisites
 
-Before learning Spring Boot, build a strong programming foundation.
+Before learning Spring Boot, it's advisable to build a strong programming foundation.
 
 ### Java Fundamentals
 
@@ -310,7 +310,7 @@ Suggested Project:
 
 # Project Roadmap
 
-Apply your knowledge by building projects throughout the learning process.
+Apply your knowledge by building projects throughout the suggested learning process.
 
 ## Beginner
 
@@ -384,7 +384,7 @@ Apply your knowledge by building projects throughout the learning process.
 * Amigoscode
 * Bro Code
 * Telusko
-* Andrii Piatakha (Udemy)
+* Andrii Piatakha [Udemy Link](https://www.udemy.com/course/java-development-for-beginners-learnit) -> Highly Recommended
 
 ## Spring Boot
 
@@ -393,7 +393,7 @@ Apply your knowledge by building projects throughout the learning process.
 * Baeldung
 * Amigoscode
 * Dan Vega
-* Chad Darby (Udemy)
+* Chad Darby [Udemy Link](https://www.udemy.com/course/spring-hibernate-tutorial)
 
 ## Databases
 
