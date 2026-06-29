@@ -115,6 +115,12 @@ A curated list of the best **free resources** to master everything in the Spring
 
 ---
 
+## Extra Roadmap for developers: 
+
+Note: [Roadmap.sh Springboot Roadmap for developers](https://roadmap.sh/spring-boot)
+
+---
+
 > *All resources listed are freely available and beginner-friendly. Practice and projects are highly recommended alongside learning!*
 
 ---
