@@ -468,14 +468,8 @@ Consistency, hands-on practice, and incremental learning are the most effective 
 
 ---
 
-## Resources
-
-> If you're new to Java, start with:  
-> [Java Full Course for free (2025) – YouTube](https://www.youtube.com/watch?v=xTtL8E4LzTQ)  
-> [Learn Java – Codecademy](https://www.codecademy.com/learn/learn-java)
-
 # Spring Boot Roadmap : The Complete Guide for Backend Developers 
-- Thanks a lot, AMIGOSCODE for this amazing Roadmap!    
+- Thanks a lot AMIGOSCODE for this amazing Roadmap!    
 
 ![Spring-Boot-roadmap](https://github.com/user-attachments/assets/f79841ce-ab40-404b-b88b-e46131a3c0eb)
 
@@ -483,7 +477,7 @@ Consistency, hands-on practice, and incremental learning are the most effective 
 
 ## Contributions! 
 
-This roadmap will guide you from beginner to advanced backend developer using Spring Boot in 2025. Follow it step-by-step and reinforce your learning with hands-on projects and real-world applications.   
+This roadmap will guide you from beginner to advanced backend developer using Spring Boot in 2026. Follow it step-by-step and reinforce your learning with hands-on projects and real-world applications.   
 
 Happy coding!   
 
@@ -492,6 +486,6 @@ Since this as open-source prep — You might have a few insights or hacks that h
 ---
 
 ```bash
-Special thanks to VenkatMal Reddy Desai for introducing me to the Java environment
+Special thanks to VenkatMal Reddy Desai for introducing me to the Java Developer Environment !!! 
 ```
-
+---
