@@ -393,7 +393,7 @@ Apply your knowledge by building projects throughout the suggested learning proc
 * Baeldung
 * Amigoscode
 * Dan Vega
-* Chad Darby [Udemy Link](https://www.udemy.com/course/spring-hibernate-tutorial)
+* Chad Darby [Udemy Link](https://www.udemy.com/course/spring-hibernate-tutorial) -> Highly Recommended
 
 ## Databases
 
@@ -407,7 +407,7 @@ Apply your knowledge by building projects throughout the suggested learning proc
 
 ## Git
 
-* Git Documentation
+* Git Documentation -> Highly Recommended
 * Pro Git Book
 
 ---
