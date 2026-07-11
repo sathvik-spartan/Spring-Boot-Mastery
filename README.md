@@ -1,4 +1,4 @@
-# Spring Boot Roadmap: The Complete Guide for Backend Developers
+# Spring Boot Pathway: The Complete Guide for Backend Developers
 
 Learn modern Java backend development from scratch using Java 21, Spring Boot 3, Docker, CI/CD, Microservices, and Cloud deployment by building real-world projects.
 
