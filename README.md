@@ -1,6 +1,6 @@
 # Spring Boot Roadmap: The Complete Guide for Backend Developers
 
-Master Spring Boot with this comprehensive roadmap covering Java fundamentals, Spring Boot, REST APIs, Security, Databases, Testing, Docker, Deployment, and Microservices.
+Learn modern Java backend development from scratch using Java 21, Spring Boot 3, Docker, CI/CD, Microservices, and Cloud deployment by building real-world projects.
 
 ---
 
@@ -15,6 +15,18 @@ Reasons to learn Spring Boot:
 * It is widely used in enterprise software and large-scale backend systems.
 * It provides excellent support for cloud-native applications and microservices.
 * Strong demand for Java Backend Developers across industries.
+
+---
+
+# Who is this roadmap for ?   
+
+This roadmap is designed for:
+
+- Beginners learning backend development
+- Java developers transitioning to Spring Boot
+- Students preparing for internships and placements
+- Developers preparing for Java Backend interviews
+- Anyone who wants to build production-ready backend applications
 
 ---
 
@@ -43,6 +55,17 @@ Before learning Spring Boot, it's advisable to build a strong programming founda
 * Optional
 * JVM Basics
 
+### Modern Java Features
+
+- Records
+- Optional
+- Switch Expressions
+- Pattern Matching
+- Text Blocks
+- Sealed Classes (Overview)
+- Virtual Threads (Introduction)
+- Java Time API (`java.time`)
+
 ### SQL Fundamentals
 
 * Database Design
@@ -58,6 +81,14 @@ Before learning Spring Boot, it's advisable to build a strong programming founda
 * Transactions
 * Normalization
 
+### More practical database concepts.
+
+* Constraints
+* Views
+* Stored Procedures (Optional)
+* Composite Indexes
+* Query Optimization
+
 ### Git & GitHub
 
 * Repository
@@ -66,6 +97,13 @@ Before learning Spring Boot, it's advisable to build a strong programming founda
 * Merge
 * Pull Requests
 * GitHub Workflow
+* Repository
+* Branching
+* Merge
+* Rebase (Optional)
+* Pull Requests
+* GitHub Flow
+* Resolving Merge Conflicts
 
 ### HTTP Fundamentals
 
@@ -75,6 +113,26 @@ Before learning Spring Boot, it's advisable to build a strong programming founda
 * Request vs Response
 * JSON
 * REST Principles
+
+### Object-Oriented Design
+
+Topics
+
+- SOLID Principles
+- Composition over Inheritance
+- Encapsulation
+- Interfaces
+- Dependency Injection Principle
+
+### Design Patterns
+
+- Singleton
+- Factory
+- Builder
+- Strategy
+- Observer
+- Repository Pattern
+- Service Layer Pattern
 
 ---
 
@@ -145,7 +203,7 @@ Suggested Project:
 
 Build production-ready REST APIs.
 
-Topics:
+Topics:     
 
 * Controllers
 * Request Mapping
@@ -158,6 +216,15 @@ Topics:
 * Sorting
 * API Versioning
 * OpenAPI / Swagger
+
+Additional Topics:   
+
+* Filtering
+* Global Exception Handling
+* API Documentation
+* Bean Validation Best Practices
+* File Upload
+* API Versioning Strategies
 
 Suggested Project:
 
@@ -181,6 +248,18 @@ Topics:
 * Flyway
 * Liquibase
 
+Advanced Topics (Improvement of Spring JPA):
+
+* Fetch Types
+* Cascade Types
+* N+1 Problem
+* Entity Graphs
+* Specifications
+* Query Optimization
+* Connection Pooling (HikariCP)
+* Optimistic Locking
+* Pessimistic Locking
+
 Suggested Project:
 
 * Employee Management System
@@ -201,6 +280,18 @@ Topics:
 * Role-Based Access Control
 * Custom Filters
 * OAuth2 (Advanced)
+
+Additional Topics (Spring Security):
+
+- Refresh Tokens
+- Token Rotation
+- Session vs JWT
+- Password Reset Flow
+- CORS
+- CSRF
+- OAuth2 Overview
+- Spring Authorization Server (Overview)
+
 
 Suggested Project:
 
@@ -308,37 +399,42 @@ Suggested Project:
 
 ---
 
-# Project Roadmap
+# 11. Production Readiness Phase (Checklist)
 
-Apply your knowledge by building projects throughout the suggested learning process.
+Topics:
 
-## Beginner
+## Logging
 
-* Calculator
-* Student Management System
-* Banking Console Application
+- SLF4J
+- Logback
+- Structured Logging
 
-## Intermediate
+## Validation
 
-* Student CRUD API
-* Employee Management API
-* Library Management System
-* Authentication API
+- Bean Validation
 
-## Advanced
+## Documentation
 
-* Blog Backend
-* E-Commerce Backend
-* URL Shortener
-* Chat Backend
-* Expense Tracker API
+- Swagger / OpenAPI
 
-## Expert
+## Email
 
-* Microservices-Based E-Commerce Platform
-* Food Delivery Backend
-* Ride Sharing Backend
-* Social Media Backend
+- Spring Mail
+
+## File Uploads
+
+- Multipart
+
+## Caching
+
+- Redis
+
+## Monitoring
+
+- Spring Boot Actuator
+- Micrometer
+- Prometheus
+- Grafana
 
 ---
 
