@@ -331,6 +331,15 @@ Topics:
 * Resilience4j
 * Circuit Breakers
 
+Additional Topics:
+
+* API Keys
+* Timeouts
+* Retry Logic
+* Resilience4j
+* Circuit Breakers
+* Rate Limiting
+
 Suggested Project:
 
 * Weather API Client
@@ -345,11 +354,19 @@ Topics:
 
 * Docker
 * Docker Compose
-* Environment Variables
 * Multi-stage Builds
-* Deployment to Render
-* Deployment to Railway
-* Basic AWS Deployment
+* Environment Variables
+* Docker Volumes
+* Docker Networking
+
+Deployment:
+
+* Render
+* Railway
+* AWS EC2
+* Nginx Reverse Proxy
+* HTTPS
+* Domain Configuration
 
 Suggested Project:
 
@@ -396,10 +413,48 @@ Suggested Project:
 * GitHub Actions
 * Docker Hub
 * Automated Deployment Pipelines
+* Automated Testing
+* Build Automation
+* Docker Image Build
+* Automated Deployment
+
+Example Pipeline:
+
+```text
+Push Code
+    ↓
+Run Tests
+    ↓
+Build JAR
+    ↓
+Build Docker Image
+    ↓
+Push Docker Image
+    ↓
+Deploy
+```
 
 ---
 
-# 11. Production Readiness Phase (Checklist)
+# 11. Software Architecture Phase
+
+Topics:
+
+* Layered Architecture
+* Clean Architecture
+* Hexagonal Architecture (Overview)
+* Feature-based Package Structure
+* DTO vs Entity
+* Monolith vs Microservices
+* Service Boundaries
+
+Suggested Project
+
+* Refactor the Student API using Clean Architecture.
+
+---
+
+# 12. Production Readiness Phase (Checklist)
 
 Topics:
 
