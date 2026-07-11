@@ -1,186 +1,114 @@
-# Project Roadmap
-
-Apply your knowledge by building projects throughout the suggested learning process.
-
-## Beginner
-
-- Calculator
-- Student Management Console
-- Banking Console
-- To-Do CLI
-
-## Intermediate
-
-- Student CRUD API
-- Employee Management API
-- Library Management System
-- Authentication API
-- Blog Backend
-
-## Advanced
-
-- E-Commerce Backend
-- Expense Tracker API
-- URL Shortener
-- Event Management API
-- Chat Backend
-
-## Expert
-
-- Food Delivery Backend
-- Ride Sharing Backend
-- Social Media Backend
-- Banking Backend
-- Netflix-style Backend
-- Microservices-based E-Commerce Platform
-
----
-
 # Spring Boot Projects
 
-Projects are organized by difficulty.
+These projects are designed to reinforce the concepts covered in the roadmap through hands-on practice. They are organized by difficulty, allowing you to gradually progress from Java fundamentals to enterprise-level backend development.
+
+> **Tip:** Don't rush through the projects. Focus on understanding the concepts, writing clean code, and deploying your applications.
+
+---
+
+## Difficulty Guide
+
+| Difficulty | Description                       |
+| ---------- | --------------------------------- |
+| ⭐          | Java Fundamentals                 |
+| ⭐⭐         | Beginner Spring Boot Applications |
+| ⭐⭐⭐        | Production-ready REST APIs        |
+| ⭐⭐⭐⭐       | Large Backend Applications        |
+| ⭐⭐⭐⭐⭐      | Enterprise & Microservices        |
 
 ---
 
 ## Beginner
 
-### Student Management System
+Build a strong foundation in Java before moving to Spring Boot.
 
-Skills:
-
-- OOP (Object Oriented Programming)
-- Collections 
-- File Handling (Optional but recommended)
-
----
-
-### Banking Console Application
-
-Skills:
-
-- OOP
-- Exception Handling
-- Collections
+| Project                     | Skills                      |
+| --------------------------- | --------------------------- |
+| Calculator                  | Java Basics, Methods, Loops |
+| Student Management Console  | OOP, Collections            |
+| Banking Console Application | OOP, Exception Handling     |
+| To-Do CLI                   | File I/O, Collections       |
 
 ---
 
 ## Intermediate
 
-### Student CRUD API
+Learn the fundamentals of Spring Boot and REST API development.
 
-Skills:
-
-- Spring Boot
-- REST
-- Validation
-- JPA
-- MySQL
-
----
-
-### Employee Management System
-
-Skills:
-
-- CRUD
-- DTOs
-- Pagination
-- Exception Handling
-
----
-
-### Authentication API
-
-Skills:
-
-- Spring Security
-- JWT
-- BCrypt
-- Role-Based Access
+| Project                   | Skills                      |
+| ------------------------- | --------------------------- |
+| Student CRUD API          | REST, Validation, JPA       |
+| Employee Management API   | DTOs, Pagination            |
+| Library Management System | Relationships, JPQL         |
+| Authentication API        | Spring Security, JWT        |
+| Blog Backend              | Authentication, File Upload |
 
 ---
 
 ## Advanced
 
-### Blog API
+Build larger applications that introduce caching, real-world architecture, and scalability.
 
-Skills:
-
-- Authentication
-- Relationships
-- Comments
-- File Upload
-
----
-
-### Expense Tracker
-
-Skills:
-
-- REST
-- Security
-- Reports
-- Transactions
-
----
-
-### URL Shortener
-
-Skills:
-
-- Hashing
-- Redis
-- Caching
+| Project              | Skills                          |
+| -------------------- | ------------------------------- |
+| E-Commerce Backend   | Orders, Payments, Security      |
+| Expense Tracker API  | Reports, Transactions           |
+| URL Shortener        | Redis, Caching                  |
+| Event Management API | Scheduling, Validation          |
+| Chat Backend         | WebSockets, Real-time Messaging |
 
 ---
 
 ## Expert
 
-### E-Commerce Backend
+Build enterprise-grade applications using distributed systems and cloud-native technologies.
 
-Skills:
-
-- Authentication
-- Payments
-- Orders
-- Inventory
-- Docker
-
----
-
-### Food Delivery Backend
-
-Skills:
-
-- JWT
-- Kafka
-- Docker
-- PostgreSQL
+| Project                           | Skills                     |
+| --------------------------------- | -------------------------- |
+| Food Delivery Backend             | Kafka, Docker              |
+| Ride Sharing Backend              | Microservices, API Gateway |
+| Social Media Backend              | Messaging, Notifications   |
+| Banking Backend                   | Transactions, Security     |
+| Netflix-style Backend             | Streaming Concepts         |
+| Microservices E-Commerce Platform | Spring Cloud, Kafka, Redis |
 
 ---
 
-### Ride Sharing Backend
+## Project Standards
 
-Skills:
+Try to include the following in every project:
 
-- Microservices
-- Redis
-- Kafka
-- API Gateway
-
----
-
-### Social Media Backend
-
-Skills:
-
-- Authentication
-- Messaging
-- Notifications
-- Caching
+* RESTful API Design
+* Validation
+* Global Exception Handling
+* API Documentation (Swagger/OpenAPI)
+* Docker Support
+* Unit & Integration Tests
+* README Documentation
+* Postman Collection
+* Environment Variables
+* Live Deployment (Optional)
 
 ---
 
-## Additional Projects 
+## Challenge Yourself
 
-Note : [Roadmap.sh Springboot Projects](https://roadmap.sh/spring-boot/projects)
+After completing a project, try adding one or more of these features:
+
+* JWT Authentication
+* Redis Caching
+* Docker & Docker Compose
+* Flyway/Liquibase
+* CI/CD with GitHub Actions
+* File Uploads
+* Email Notifications
+* Monitoring with Prometheus & Grafana
+* Deploy to Render, Railway, or AWS
+
+---
+
+## More Practice
+
+Looking for additional project ideas?
+
+* **roadmap.sh Spring Boot Projects:** https://roadmap.sh/spring-boot/projects
