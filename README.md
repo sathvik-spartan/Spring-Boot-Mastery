@@ -629,9 +629,7 @@ Consistency, hands-on practice, and incremental learning are the most effective 
 
 ## Contributions! 
 
-This roadmap will guide you from beginner to advanced backend developer using Spring Boot in 2026. Follow it step-by-step and reinforce your learning with hands-on projects and real-world applications.   
-
-Happy coding!   
+This detailed roadmap will guide you from beginner to advanced backend developer using Spring Boot in 2026. Follow it step-by-step and reinforce your learning with hands-on projects and real-world applications.   
 
 Since this as open-source prep — You might have a few insights or hacks that helped you, feel free to drop them in. It might just help someone chasing the same goal.
 
