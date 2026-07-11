@@ -14,7 +14,7 @@
 ---
 
 # 4. Apache Maven Quick Reference Guide 
-[Official Cheatsheet by Apache Maven][(https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+[Official Cheatsheet by Apache Maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
 ---
 
