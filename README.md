@@ -486,7 +486,7 @@ Since this as open-source prep — You might have a few insights or hacks that h
 
 ---
 
-```bash
+```text
 Special thanks to VenkatMal Reddy Desai for introducing me to the Java Developer Environment !!! 
 ```
 ---
