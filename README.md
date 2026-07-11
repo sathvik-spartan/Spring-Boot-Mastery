@@ -464,7 +464,8 @@ Consistency, hands-on practice, and incremental learning are the most effective 
 
 - **Git & GitHub**: [Git and GitHub Course - Hands on](https://www.udemy.com/course/git-and-github-bootcamp).
 - **IntelliJ IDEA**: [IntelliJ IDEA Full Course – YouTube](https://www.youtube.com/watch?v=yefmcX57Eyg)
-- **Linux for Developers**: [Linux Command Line Basics – Coursera](https://www.coursera.org/learn/linux-command-line-basics)
+- **Linux Complete Guide**: [Linux Complete guide by FreeCodeCamp](https://youtu.be/sWbUDq4S6Y8?si=SI3UQMyJ7FiR2v6t)
+- **4 hr Course of Linux**: [Linux by Boot dev](https://youtu.be/v392lEyM29A?si=IseTbxHvhLyH100p)
 
 ---
 
