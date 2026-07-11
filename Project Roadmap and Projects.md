@@ -1,3 +1,41 @@
+# Project Roadmap
+
+Apply your knowledge by building projects throughout the suggested learning process.
+
+## Beginner
+
+- Calculator
+- Student Management Console
+- Banking Console
+- To-Do CLI
+
+## Intermediate
+
+- Student CRUD API
+- Employee Management API
+- Library Management System
+- Authentication API
+- Blog Backend
+
+## Advanced
+
+- E-Commerce Backend
+- Expense Tracker API
+- URL Shortener
+- Event Management API
+- Chat Backend
+
+## Expert
+
+- Food Delivery Backend
+- Ride Sharing Backend
+- Social Media Backend
+- Banking Backend
+- Netflix-style Backend
+- Microservices-based E-Commerce Platform
+
+---
+
 # Spring Boot Projects
 
 Projects are organized by difficulty.
