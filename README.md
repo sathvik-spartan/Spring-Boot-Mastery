@@ -567,7 +567,7 @@ Topics:
 
 ---
 
-# Final Advice
+# Final Advice (From the author)    
 
 The roadmap is intended to provide a structured learning path. Progress through each phase sequentially, build practical projects alongside each topic, and maintain a GitHub portfolio to document your work and reinforce your understanding.
 
