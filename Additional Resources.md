@@ -1,6 +1,6 @@
 # Spring Boot Roadmap - Free Resources
 
-A curated list of the best **free resources** to master everything in the Spring Boot roadmap (based on Amigoscode's roadmap).
+A curated list of the best **free resources** to master everything in the Spring Boot roadmap.
 
 ---
 
