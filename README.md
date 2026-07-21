@@ -493,7 +493,7 @@ Topics:
 
 ---
 
-# Essential Developer Tools
+# Free Essential Developer Tools
 
 ## IDE
 
@@ -567,7 +567,7 @@ Topics:
 
 ---
 
-## Bonus: Essential Developer Tools
+## Bonus: Free Essential Developer Tools and resources
 
 - **Git & GitHub**: [Git and GitHub Course - Hands on](https://www.udemy.com/course/git-and-github-bootcamp).
 - **IntelliJ IDEA**: [IntelliJ IDEA Full Course – YouTube](https://www.youtube.com/watch?v=yefmcX57Eyg)
