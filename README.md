@@ -567,14 +567,6 @@ Topics:
 
 ---
 
-# Final Advice (From the author)    
-
-The roadmap is intended to provide a structured learning path. Progress through each phase sequentially, build practical projects alongside each topic, and maintain a GitHub portfolio to document your work and reinforce your understanding.
-
-Consistency, hands-on practice, and incremental learning are the most effective ways to master Spring Boot and backend development.
-
----
-
 ## Bonus: Essential Developer Tools
 
 - **Git & GitHub**: [Git and GitHub Course - Hands on](https://www.udemy.com/course/git-and-github-bootcamp).
@@ -588,14 +580,6 @@ Consistency, hands-on practice, and incremental learning are the most effective 
 - Thanks a lot AMIGOSCODE for this amazing Roadmap!    
 
 ![Spring-Boot-roadmap](https://github.com/user-attachments/assets/f79841ce-ab40-404b-b88b-e46131a3c0eb)
-
----
-
-## Contributions! 
-
-This detailed roadmap will guide you from beginner to advanced backend developer using Spring Boot in 2026. Follow it step-by-step and reinforce your learning with hands-on projects and real-world applications.   
-
-Since this as open-source prep — You might have a few insights or hacks that helped you, feel free to drop them in. It might just help someone chasing the same goal.
 
 ---
 
